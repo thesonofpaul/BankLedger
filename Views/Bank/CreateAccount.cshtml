@@ -1,0 +1,16 @@
+@{
+    ViewData["Title"] = "Create Account";
+}
+
+<h3>@ViewData["Message"]</h3>
+
+<form method="POST">
+    <h3>Create New Account</h3>
+    <label>Full Name:</label>
+    <input type="text" name="Name"><br>
+    <label>User Name:</label>
+    <input type="text" name="UserName"><br>
+    <label>Password:</label>
+    <input type="text" name="Password"><br>
+    <input type="submit" asp-area="" asp-controller="Bank" asp-action="VerifyCreate">
+</form>

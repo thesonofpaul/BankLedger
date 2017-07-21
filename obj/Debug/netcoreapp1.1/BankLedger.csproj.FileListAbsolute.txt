@@ -1,0 +1,8 @@
+/home/zach/Projects/BankLedger/bin/Debug/netcoreapp1.1/BankLedger.deps.json
+/home/zach/Projects/BankLedger/bin/Debug/netcoreapp1.1/BankLedger.runtimeconfig.json
+/home/zach/Projects/BankLedger/bin/Debug/netcoreapp1.1/BankLedger.runtimeconfig.dev.json
+/home/zach/Projects/BankLedger/bin/Debug/netcoreapp1.1/BankLedger.dll
+/home/zach/Projects/BankLedger/bin/Debug/netcoreapp1.1/BankLedger.pdb
+/home/zach/Projects/BankLedger/obj/Debug/netcoreapp1.1/BankLedger.AssemblyInfo.cs
+/home/zach/Projects/BankLedger/obj/Debug/netcoreapp1.1/BankLedger.dll
+/home/zach/Projects/BankLedger/obj/Debug/netcoreapp1.1/BankLedger.pdb
